@@ -1,0 +1,5 @@
+backend= https://model-backend-salary.herokuapp.com.
+
+frontend= https://model-frontend-salary.herokuapp.com/
+
+URL Kaggle (Raw Data)= https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
