@@ -1,0 +1,3 @@
+URL Dataset = https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+URL Deployment = https://model-churn-frontend.herokuapp.com/
