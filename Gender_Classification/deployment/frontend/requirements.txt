@@ -1,0 +1,5 @@
+requests
+numpy
+streamlit
+tensorflow-cpu
+typing_extensions
